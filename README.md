@@ -1,4 +1,5 @@
-everything-and-kitchensink
-==========================
+Everything and the kitchensink
+==============================
 
-sometimes you just want to keep track of things
+Sometimes you just want to keep track of things.
+
